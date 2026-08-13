@@ -10,3 +10,10 @@ git add chapater1 or git add . (to add all files)
 git status
 
 git commit -m "name the changes you made"
+
+git 
+git rm
+
+git rm --cached -r . (remove all files from stagging area)
+
+https://github.com/github/gitignore
