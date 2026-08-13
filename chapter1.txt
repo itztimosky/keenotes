@@ -1,1 +1,12 @@
-knknknknknkn
+1. Make 1 million dollar befor 2026 end
+
+First git init
+
+ls -a
+(to show git hidden file)
+
+git add chapater1 or git add . (to add all files)
+
+git status
+
+git commit -m "name the changes you made"
