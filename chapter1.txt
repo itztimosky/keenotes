@@ -17,3 +17,15 @@ git rm
 git rm --cached -r . (remove all files from stagging area)
 
 https://github.com/github/gitignore
+
+git clone https://github.com/inolen/quakejs.git ( to clon a project on git then follow the documentation)
+
+clear
+
+git branch name (name means put whaever name to create a new branch aside main)
+git branch (to just check)
+git checkout name (to change from main branch to name branch or any other branch)
+
+
+git merge name ( to merge)
+q!
