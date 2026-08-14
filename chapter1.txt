@@ -16,6 +16,9 @@ git rm
 
 git rm --cached -r . (remove all files from stagging area)
 
+git restore filename
+or git restore . 
+
 https://github.com/github/gitignore
 
 git clone https://github.com/inolen/quakejs.git ( to clon a project on git then follow the documentation)
